@@ -24,7 +24,7 @@ To run this application locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/vulnerable-login-app.git
+   git clone https://github.com/NE4TRON/vulnerable-login-app.git
 cd vulnerable-login-app
 
 start index.html   #on windows
