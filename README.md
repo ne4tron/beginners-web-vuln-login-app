@@ -25,7 +25,8 @@ To run this application locally:
 
    ```bash
    git clone https://github.com/ne4tron/beginners-web-vuln-login-app
-cd vulnerable-login-app
+   
+cd beginners-web-vuln-login-app
 
 start index.html   #on windows
 
