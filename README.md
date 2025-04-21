@@ -25,3 +25,8 @@ To run this application locally:
 
    ```bash
    git clone https://github.com/yourusername/vulnerable-login-app.git
+   
+Disclaimer
+
+> This project is intentionally insecure and should never be used in production environments.
+It’s built for educational, testing, and demonstration purposes only — to help beginners learn about common web vulnerabilities, client-side authentication weaknesses, and the importance of server-side validation and security.
