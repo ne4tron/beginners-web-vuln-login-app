@@ -26,7 +26,9 @@ To run this application locally:
    ```bash
    git clone https://github.com/yourusername/vulnerable-login-app.git
 cd vulnerable-login-app
-start index.html   
+
+start index.html   #on windows
+xdg-open index.html #linux
    
 Disclaimer
 
