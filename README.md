@@ -14,22 +14,14 @@ A beginner-friendly, intentionally vulnerable web login application built with b
 - `index.html` — Login page
 - `register.html` — User registration page
 - `profile.html` — User profile page
-- `style.css` — Basic styling (not uploaded in this demo)
-- `script.js` — Front-end logic for authentication (not uploaded in this demo)
+- `style.css` — Basic styling
+- `script.js` — Front-end logic for authentication
 
-## How to Use
+## Getting Started
 
-1. Clone or download the repository.
-2. Open `index.html` in a web browser.
-3. Register a new account.
-4. Login with the registered credentials.
-5. You’ll be redirected to the profile page if successful.
+To run this application locally:
 
-## Disclaimer
+1. **Clone the repository:**
 
-**This project is intentionally insecure and should not be used in production environments.**  
-It’s designed for educational and demonstration purposes only — to help beginners understand why client-side-only authentication is insecure.
-
-## License
-
-This project is open source and free to use under the MIT License.
+   ```bash
+   git clone https://github.com/yourusername/vulnerable-login-app.git
